@@ -21,4 +21,5 @@ Combined .benfit-lead, .benifit brand and benefit cost to one line just to make 
 Combined search engine optimization, onmline reputation managment and sociol media marketing to one line to make more concise.  
 Items were the same exact perameters so they could sit in the same line. 
 
-REA
+Screenshot
+![alt text](file:///C:/Users/Trent/Downloads/_C__Users_Trent_OneDrive_Desktop_Coding_Homework_RefactoringCodebaseAccessibilty_index.html.png)
