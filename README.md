@@ -25,4 +25,4 @@ Screenshot
 ![alt text](file:///C:/Users/Trent/Downloads/_C__Users_Trent_OneDrive_Desktop_Coding_Homework_RefactoringCodebaseAccessibilty_index.html.png)
 
 Link
-[a link](file:///C:/Users/Trent/OneDrive/Desktop/Coding/Homework/RefactoringCodebaseAccessibilty/index.html)
+[a link] (file:///C:/Users/Trent/OneDrive/Desktop/Coding/Homework/RefactoringCodebaseAccessibilty/index.html)
